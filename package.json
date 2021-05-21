@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achak1987/react-native-hlf-wrapper.git",
-    "baseUrl": "https://github.com/achak1987/react-native-hlf-wrapper"
+    "url": "git+https://github.com/bityoga/react-native-hlf-wrapper.git",
+    "baseUrl": "https://github.com/bityoga/react-native-hlf-wrapper"
   },
   "keywords": [
     "react-native",
@@ -41,9 +41,9 @@
     "fsevents": "^1.2.13"
   },
   "bugs": {
-    "url": "https://github.com/achak1987/react-native-hlf-wrapper/issues"
+    "url": "https://github.com/bityoga/react-native-hlf-wrapper/issues"
   },
-  "homepage": "https://github.com/achak1987/react-native-hlf-wrapper#readme",
+  "homepage": "https://github.com/bityoga/react-native-hlf-wrapper#readme",
   "dependencies": {
     "absolute-path": "^0.0.0",
     "anser": "^1.4.9",
