@@ -282,7 +282,7 @@
     "negotiator": "^0.6.2",
     "nice-try": "^1.0.5",
     "node-int64": "^0.4.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "node-modules-regexp": "^1.0.0",
     "nullthrows": "^1.1.1",
     "node-stream-zip": "^1.10.1",
