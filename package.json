@@ -191,7 +191,7 @@
     "http-errors": "^1.7.3",
     "iconv-lite": "^0.4.24",
     "import-fresh": "^2.0.0",
-    "hermes-engine": "^0.4.1",
+    "hermes-engine": "^0.10.0",
     "image-size": "^0.6.3",
     "imurmurhash": "^0.1.4",
     "inquirer": "^3.3.0",
